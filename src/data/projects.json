@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Myntra Clone",
+      "imageSrc": "project/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Snake Game",
+      "imageSrc": "project/snake.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Hussain-Fazle/Snake-Game"
+    },
+    {
+      "title": "Taxi_fare Prediction",
+      "imageSrc": "project/TaxiFare.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Python", "ML", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Hussain-Fazle/Taxi_fare_Prediction/blob/main/Taxi_fare_prediction.txt"
+    }
+  ]
